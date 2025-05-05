@@ -15,5 +15,8 @@ public class Arithmertic {
         System.out.println("Divide:"+output);
         output=data%data1;
         System.out.println("Modulo:"+output);
+
+
+
     }
 }
