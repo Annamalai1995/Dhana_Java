@@ -8,7 +8,7 @@ public class Arithmertic {
     int b=scan1.nextInt();
     int c=a-b;
     public static void main(String[] args) {
-        System.out.println("THE RESULT C:"+c);
+      //  System.out.println("THE RESULT C:"+c);
 //        int data=500;
 //        int data1=200;
 //        int output;

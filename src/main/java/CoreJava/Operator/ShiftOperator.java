@@ -1,4 +1,4 @@
-package CoreJava.variable.Operator;
+package CoreJava.Operator;
 
 public class ShiftOperator {
     public static void main(String[] args) {
